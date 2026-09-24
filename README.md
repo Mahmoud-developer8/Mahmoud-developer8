@@ -53,7 +53,7 @@
   <a href="https://x.com/Mahmoud_dev14">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.instagram.com/7ooda0101/">
+  <a href="[https://www.instagram.com/7ooda0101/](https://www.instagram.com/mahmoud.official78?stkn=MTNnM2xsa200ejU5dA==)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:mdawa710@gmail.com">
